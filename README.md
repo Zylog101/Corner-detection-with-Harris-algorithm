@@ -3,4 +3,4 @@ Harris Corner Detection algorithm implementation without using directly open cv 
 
 Corners are points of interests & corner detection principle is identificatino of corners by taking into account neighbourhood window and the change in orientation preset in that window. The gradient orientation in the window if it has more than one direction with considerable difference between them then corner is said to exist at that point.
 
-
+![image](https://github.com/Zylog101/Corner-detection-with-Harris-algorithm/blob/master/Image/CDet.JPG)
